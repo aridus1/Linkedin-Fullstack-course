@@ -1,0 +1,9 @@
+All html tags are opening and closing
+  ex: <p> this is a paragraph </p>
+
+Html tags can be nested one inside another
+  ex: <p> this is a prargraph <em>  with emphasized text </em> inside another paragraph </p>
+  
+A DOM (Document Object Model) tree can be made from the nesting of html tags
+DOM tree comes into play when using CSS and JS
+Browser also uses DOM tree to create an accessability tree
