@@ -7,3 +7,5 @@ Html tags can be nested one inside another
 A DOM (Document Object Model) tree can be made from the nesting of html tags
 DOM tree comes into play when using CSS and JS
 Browser also uses DOM tree to create an accessability tree
+
+Html Quote:
